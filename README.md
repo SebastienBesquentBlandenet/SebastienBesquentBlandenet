@@ -1,5 +1,5 @@
 
-![Cover](https://github.com/SebastienBesquentBlandenet/SebastienBesquentBlandenet/blob/master/img/bcg-code.jpg)
+![Cover](https://github.com/SebastienBesquentBlandenet/SebastienBesquentBlandenet/blob/master/img/background-code.jpg)
 
 
 <!--
