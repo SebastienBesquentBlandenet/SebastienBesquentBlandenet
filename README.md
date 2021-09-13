@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Cover](https://github.com/SebastienBesquentBlandenet/SebastienBesquentBlandenet/blob/master/img/bcg-code.jpg)
 <!--
 **SebastienBesquentBlandenet/SebastienBesquentBlandenet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
