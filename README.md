@@ -1,5 +1,4 @@
 
-![Cover](https://github.com/SebastienBesquentBlandenet/SebastienBesquentBlandenet/blob/master/img/background-code.jpg)
 
 
 <!--
@@ -16,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img alt="." src="https://github.com/SebastienBesquentBlandenet/SebastienBesquentBlandenet/blob/master/img/background-code.jpg" width="100%">
+
