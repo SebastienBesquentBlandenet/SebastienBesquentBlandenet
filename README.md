@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Cover](https://github.com/SebastienBesquentBlandenet/SebastienBesquentBlandenet/blob/master/img/background-code.jpg)
+![Cover](https://github.com/SebastienBesquentBlandenet/SebastienBesquentBlandenet/blob/main/img/background-code.jpg)
 
 
